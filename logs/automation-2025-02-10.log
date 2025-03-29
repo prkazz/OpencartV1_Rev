@@ -1,0 +1,24 @@
+2025-02-10 11:06:39 INFO  TC01_AcRegisteration:15 - ****Starting TC01_AcRegisteration***
+2025-02-10 11:06:40 INFO  TC01_AcRegisteration:21 - ****clicked on MyAccount Link***
+2025-02-10 11:06:40 INFO  TC01_AcRegisteration:23 - ****clicked on Register Link***
+2025-02-10 11:06:40 INFO  TC01_AcRegisteration:27 - ****providing customer details***
+2025-02-10 11:06:41 INFO  TC01_AcRegisteration:37 - ****Validating expected msg***
+2025-02-10 11:06:42 INFO  TC01_AcRegisteration:58 - **** Finished TC001_AccountRegistration ****
+2025-02-10 12:21:14 INFO  TC01_AcRegisteration:15 - ****Starting TC01_AcRegisteration***
+2025-02-10 12:21:14 INFO  TC01_AcRegisteration:21 - ****clicked on MyAccount Link***
+2025-02-10 12:21:15 INFO  TC01_AcRegisteration:23 - ****clicked on Register Link***
+2025-02-10 12:21:15 INFO  TC01_AcRegisteration:27 - ****providing customer details***
+2025-02-10 12:21:16 INFO  TC01_AcRegisteration:37 - ****Validating expected msg***
+2025-02-10 12:21:16 INFO  TC01_AcRegisteration:58 - **** Finished TC001_AccountRegistration ****
+2025-02-10 12:21:21 INFO  TC01_AcRegisteration:15 - ****Starting TC01_AcRegisteration***
+2025-02-10 12:21:21 INFO  TC01_AcRegisteration:21 - ****clicked on MyAccount Link***
+2025-02-10 12:21:21 INFO  TC01_AcRegisteration:23 - ****clicked on Register Link***
+2025-02-10 12:21:21 INFO  TC01_AcRegisteration:27 - ****providing customer details***
+2025-02-10 12:21:23 INFO  TC01_AcRegisteration:37 - ****Validating expected msg***
+2025-02-10 12:21:23 INFO  TC01_AcRegisteration:58 - **** Finished TC001_AccountRegistration ****
+2025-02-10 12:21:31 INFO  TC01_AcRegisteration:15 - ****Starting TC01_AcRegisteration***
+2025-02-10 12:21:31 INFO  TC01_AcRegisteration:21 - ****clicked on MyAccount Link***
+2025-02-10 12:21:32 INFO  TC01_AcRegisteration:23 - ****clicked on Register Link***
+2025-02-10 12:21:32 INFO  TC01_AcRegisteration:27 - ****providing customer details***
+2025-02-10 12:21:33 INFO  TC01_AcRegisteration:37 - ****Validating expected msg***
+2025-02-10 12:21:33 INFO  TC01_AcRegisteration:58 - **** Finished TC001_AccountRegistration ****

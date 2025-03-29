@@ -1,0 +1,13 @@
+2025-02-09 08:24:35 INFO  TC01_AcRegisteration:15 - ****Starting TC01_AcRegisteration***
+2025-02-09 08:24:36 INFO  TC01_AcRegisteration:21 - ****clicked on MyAccount Link***
+2025-02-09 08:24:36 INFO  TC01_AcRegisteration:23 - ****clicked on Register Link***
+2025-02-09 08:24:36 INFO  TC01_AcRegisteration:27 - ****providing customer details***
+2025-02-09 08:24:38 INFO  TC01_AcRegisteration:37 - ****Validating expected msg***
+2025-02-09 08:24:38 ERROR TC01_AcRegisteration:44 - expected msg failed
+2025-02-09 08:24:38 DEBUG TC01_AcRegisteration:45 - Debug logs..
+2025-02-09 08:26:59 INFO  TC01_AcRegisteration:15 - ****Starting TC01_AcRegisteration***
+2025-02-09 08:26:59 INFO  TC01_AcRegisteration:21 - ****clicked on MyAccount Link***
+2025-02-09 08:26:59 INFO  TC01_AcRegisteration:23 - ****clicked on Register Link***
+2025-02-09 08:26:59 INFO  TC01_AcRegisteration:27 - ****providing customer details***
+2025-02-09 08:27:01 INFO  TC01_AcRegisteration:37 - ****Validating expected msg***
+2025-02-09 08:27:01 INFO  TC01_AcRegisteration:58 - **** Finished TC001_AccountRegistration ****

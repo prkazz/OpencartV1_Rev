@@ -1,0 +1,67 @@
+2025-03-11 15:38:42 INFO  TC02_LoginTest:18 - ****Starting TC02_LoginTest********
+2025-03-11 15:38:43 INFO  TC02_LoginTest:24 - ****Provinding username and password********
+2025-03-11 15:39:42 INFO  TC02_LoginTest:18 - ****Starting TC02_LoginTest********
+2025-03-11 15:39:43 INFO  TC02_LoginTest:24 - ****Provinding username and password********
+2025-03-11 15:43:15 INFO  TC01_AcRegisteration:15 - ****Starting TC01_AcRegisteration***
+2025-03-11 15:43:16 INFO  TC01_AcRegisteration:21 - ****clicked on MyAccount Link***
+2025-03-11 15:43:17 INFO  TC01_AcRegisteration:23 - ****clicked on Register Link***
+2025-03-11 15:43:17 INFO  TC01_AcRegisteration:27 - ****providing customer details***
+2025-03-11 15:43:19 INFO  TC01_AcRegisteration:15 - ****Starting TC01_AcRegisteration***
+2025-03-11 15:43:20 INFO  TC01_AcRegisteration:21 - ****clicked on MyAccount Link***
+2025-03-11 15:43:21 INFO  TC01_AcRegisteration:23 - ****clicked on Register Link***
+2025-03-11 15:43:21 INFO  TC01_AcRegisteration:27 - ****providing customer details***
+2025-03-11 15:43:21 INFO  TC01_AcRegisteration:37 - ****Validating expected msg***
+2025-03-11 15:43:21 INFO  TC01_AcRegisteration:58 - **** Finished TC001_AccountRegistration ****
+2025-03-11 15:43:22 ERROR TC01_AcRegisteration:52 - test failed
+2025-03-11 15:50:32 INFO  TC02_LoginTest:18 - ****Starting TC02_LoginTest********
+2025-03-11 15:50:33 INFO  TC02_LoginTest:24 - ****Provinding username and password********
+2025-03-11 15:52:39 INFO  TC01_AcRegisteration:15 - ****Starting TC01_AcRegisteration***
+2025-03-11 15:52:41 INFO  TC01_AcRegisteration:21 - ****clicked on MyAccount Link***
+2025-03-11 15:52:42 INFO  TC01_AcRegisteration:23 - ****clicked on Register Link***
+2025-03-11 15:52:42 INFO  TC01_AcRegisteration:27 - ****providing customer details***
+2025-03-11 15:52:52 ERROR TC01_AcRegisteration:52 - test failed
+2025-03-11 15:52:52 INFO  TC01_AcRegisteration:15 - ****Starting TC01_AcRegisteration***
+2025-03-11 15:52:53 ERROR TC01_AcRegisteration:52 - test failed
+2025-03-11 15:57:26 INFO  TC01_AcRegisteration:15 - ****Starting TC01_AcRegisteration***
+2025-03-11 15:57:30 INFO  TC01_AcRegisteration:15 - ****Starting TC01_AcRegisteration***
+2025-03-11 15:57:30 INFO  TC01_AcRegisteration:21 - ****clicked on MyAccount Link***
+2025-03-11 15:57:31 INFO  TC01_AcRegisteration:21 - ****clicked on MyAccount Link***
+2025-03-11 15:57:31 INFO  TC01_AcRegisteration:23 - ****clicked on Register Link***
+2025-03-11 15:57:31 INFO  TC01_AcRegisteration:27 - ****providing customer details***
+2025-03-11 15:57:32 INFO  TC01_AcRegisteration:23 - ****clicked on Register Link***
+2025-03-11 15:57:32 INFO  TC01_AcRegisteration:27 - ****providing customer details***
+2025-03-11 15:57:34 INFO  TC01_AcRegisteration:37 - ****Validating expected msg***
+2025-03-11 15:57:44 ERROR TC01_AcRegisteration:44 - expected msg failed
+2025-03-11 15:57:44 DEBUG TC01_AcRegisteration:45 - Debug logs..
+2025-03-11 15:57:44 INFO  TC01_AcRegisteration:37 - ****Validating expected msg***
+2025-03-11 15:57:54 ERROR TC01_AcRegisteration:44 - expected msg failed
+2025-03-11 15:57:54 DEBUG TC01_AcRegisteration:45 - Debug logs..
+2025-03-11 16:03:50 INFO  TC01_AcRegisteration:15 - ****Starting TC01_AcRegisteration***
+2025-03-11 16:03:51 INFO  TC01_AcRegisteration:21 - ****clicked on MyAccount Link***
+2025-03-11 16:03:52 INFO  TC01_AcRegisteration:23 - ****clicked on Register Link***
+2025-03-11 16:03:52 INFO  TC01_AcRegisteration:27 - ****providing customer details***
+2025-03-11 16:03:53 INFO  TC01_AcRegisteration:37 - ****Validating expected msg***
+2025-03-11 16:03:54 INFO  TC01_AcRegisteration:58 - **** Finished TC001_AccountRegistration ****
+2025-03-11 16:04:43 INFO  TC01_AcRegisteration:15 - ****Starting TC01_AcRegisteration***
+2025-03-11 16:04:44 INFO  TC01_AcRegisteration:21 - ****clicked on MyAccount Link***
+2025-03-11 16:04:47 INFO  TC01_AcRegisteration:23 - ****clicked on Register Link***
+2025-03-11 16:04:47 INFO  TC01_AcRegisteration:27 - ****providing customer details***
+2025-03-11 16:04:47 ERROR TC01_AcRegisteration:52 - test failed
+2025-03-11 16:04:51 INFO  TC01_AcRegisteration:15 - ****Starting TC01_AcRegisteration***
+2025-03-11 16:04:51 INFO  TC01_AcRegisteration:21 - ****clicked on MyAccount Link***
+2025-03-11 16:04:52 INFO  TC01_AcRegisteration:23 - ****clicked on Register Link***
+2025-03-11 16:04:52 INFO  TC01_AcRegisteration:27 - ****providing customer details***
+2025-03-11 16:04:53 INFO  TC01_AcRegisteration:37 - ****Validating expected msg***
+2025-03-11 16:04:53 INFO  TC01_AcRegisteration:58 - **** Finished TC001_AccountRegistration ****
+2025-03-11 16:05:15 INFO  TC01_AcRegisteration:15 - ****Starting TC01_AcRegisteration***
+2025-03-11 16:05:19 INFO  TC01_AcRegisteration:15 - ****Starting TC01_AcRegisteration***
+2025-03-11 16:05:19 INFO  TC01_AcRegisteration:21 - ****clicked on MyAccount Link***
+2025-03-11 16:05:19 INFO  TC01_AcRegisteration:21 - ****clicked on MyAccount Link***
+2025-03-11 16:05:21 INFO  TC01_AcRegisteration:23 - ****clicked on Register Link***
+2025-03-11 16:05:21 INFO  TC01_AcRegisteration:27 - ****providing customer details***
+2025-03-11 16:05:22 INFO  TC01_AcRegisteration:23 - ****clicked on Register Link***
+2025-03-11 16:05:22 INFO  TC01_AcRegisteration:27 - ****providing customer details***
+2025-03-11 16:05:32 ERROR TC01_AcRegisteration:52 - test failed
+2025-03-11 16:05:32 INFO  TC01_AcRegisteration:15 - ****Starting TC01_AcRegisteration***
+2025-03-11 16:05:33 ERROR TC01_AcRegisteration:52 - test failed
+2025-03-11 16:05:33 ERROR TC01_AcRegisteration:52 - test failed

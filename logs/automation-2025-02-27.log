@@ -1,0 +1,19 @@
+2025-02-27 12:02:36 INFO  TC01_AcRegisteration:15 - ****Starting TC01_AcRegisteration***
+2025-02-27 12:02:37 INFO  TC01_AcRegisteration:21 - ****clicked on MyAccount Link***
+2025-02-27 12:02:38 INFO  TC01_AcRegisteration:23 - ****clicked on Register Link***
+2025-02-27 12:02:38 INFO  TC01_AcRegisteration:27 - ****providing customer details***
+2025-02-27 12:02:39 INFO  TC01_AcRegisteration:37 - ****Validating expected msg***
+2025-02-27 12:02:39 INFO  TC01_AcRegisteration:58 - **** Finished TC001_AccountRegistration ****
+2025-02-27 12:02:41 INFO  TC02_LoginTest:18 - ****Starting TC02_LoginTest********
+2025-02-27 12:02:42 INFO  TC02_LoginTest:24 - ****Provinding username and password********
+2025-02-27 12:02:43 INFO  TC02_LoginTest:33 - my account page validated successfully
+2025-02-27 12:02:43 INFO  TC02_LoginTest:34 - ****sucessfully logged in********
+2025-02-27 12:02:43 INFO  TC02_LoginTest:40 - **********Finished TC02_LoginTest**********
+2025-02-27 13:08:17 INFO  TC01_AcRegisteration:15 - ****Starting TC01_AcRegisteration***
+2025-02-27 13:08:18 INFO  TC01_AcRegisteration:21 - ****clicked on MyAccount Link***
+2025-02-27 13:08:19 INFO  TC01_AcRegisteration:23 - ****clicked on Register Link***
+2025-02-27 13:08:19 INFO  TC01_AcRegisteration:27 - ****providing customer details***
+2025-02-27 13:08:20 INFO  TC01_AcRegisteration:37 - ****Validating expected msg***
+2025-02-27 13:08:21 INFO  TC01_AcRegisteration:58 - **** Finished TC001_AccountRegistration ****
+2025-02-27 13:08:23 INFO  TC02_LoginTest:18 - ****Starting TC02_LoginTest********
+2025-02-27 13:08:25 INFO  TC02_LoginTest:24 - ****Provinding username and password********

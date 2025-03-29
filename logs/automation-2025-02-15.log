@@ -1,0 +1,10 @@
+2025-02-15 15:43:37 INFO  TC02_LoginTest:18 - ****Starting TC02_LoginTest********
+2025-02-15 15:44:03 INFO  TC02_LoginTest:18 - ****Starting TC02_LoginTest********
+2025-02-15 15:44:04 INFO  TC02_LoginTest:24 - ****Provinding username and password********
+2025-02-15 15:44:05 INFO  TC02_LoginTest:28 - ****sucessfully logged in********
+2025-02-15 15:44:06 INFO  TC02_LoginTest:31 - ****sucessfully logged out********
+2025-02-15 15:44:06 INFO  TC02_LoginTest:36 - **********Finished TC02_LoginTest**********
+2025-02-15 16:06:54 INFO  TC02_LoginTest:18 - ****Starting TC02_LoginTest********
+2025-02-15 16:06:56 INFO  TC02_LoginTest:24 - ****Provinding username and password********
+2025-02-15 16:06:57 INFO  TC02_LoginTest:29 - ****sucessfully logged in********
+2025-02-15 16:06:57 INFO  TC02_LoginTest:38 - **********Finished TC02_LoginTest**********

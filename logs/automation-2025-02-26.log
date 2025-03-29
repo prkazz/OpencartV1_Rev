@@ -1,0 +1,106 @@
+2025-02-26 13:34:37 INFO  TC02_LoginTest:18 - ****Starting TC02_LoginTest********
+2025-02-26 13:34:38 INFO  TC02_LoginTest:24 - ****Provinding username and password********
+2025-02-26 13:34:39 INFO  TC02_LoginTest:33 - my account page validated successfully
+2025-02-26 13:34:39 INFO  TC02_LoginTest:34 - ****sucessfully logged in********
+2025-02-26 13:34:39 INFO  TC02_LoginTest:40 - **********Finished TC02_LoginTest**********
+2025-02-26 13:36:35 INFO  TC02_LoginTest:18 - ****Starting TC02_LoginTest********
+2025-02-26 13:36:36 INFO  TC02_LoginTest:24 - ****Provinding username and password********
+2025-02-26 13:36:37 INFO  TC02_LoginTest:33 - my account page validated successfully
+2025-02-26 13:36:37 INFO  TC02_LoginTest:34 - ****sucessfully logged in********
+2025-02-26 13:36:37 INFO  TC02_LoginTest:40 - **********Finished TC02_LoginTest**********
+2025-02-26 13:37:46 INFO  TC01_AcRegisteration:15 - ****Starting TC01_AcRegisteration***
+2025-02-26 13:37:46 INFO  TC01_AcRegisteration:21 - ****clicked on MyAccount Link***
+2025-02-26 13:37:47 INFO  TC01_AcRegisteration:23 - ****clicked on Register Link***
+2025-02-26 13:37:47 INFO  TC01_AcRegisteration:27 - ****providing customer details***
+2025-02-26 13:37:48 INFO  TC01_AcRegisteration:37 - ****Validating expected msg***
+2025-02-26 13:37:48 INFO  TC01_AcRegisteration:58 - **** Finished TC001_AccountRegistration ****
+2025-02-26 13:37:52 INFO  TC02_LoginTest:18 - ****Starting TC02_LoginTest********
+2025-02-26 13:37:53 INFO  TC02_LoginTest:24 - ****Provinding username and password********
+2025-02-26 13:37:54 INFO  TC02_LoginTest:33 - my account page validated successfully
+2025-02-26 13:37:54 INFO  TC02_LoginTest:34 - ****sucessfully logged in********
+2025-02-26 13:37:54 INFO  TC02_LoginTest:40 - **********Finished TC02_LoginTest**********
+2025-02-26 13:42:23 INFO  TC02_LoginTest:18 - ****Starting TC02_LoginTest********
+2025-02-26 13:42:24 INFO  TC02_LoginTest:24 - ****Provinding username and password********
+2025-02-26 13:42:25 INFO  TC02_LoginTest:33 - my account page validated successfully
+2025-02-26 13:42:25 INFO  TC02_LoginTest:34 - ****sucessfully logged in********
+2025-02-26 13:42:25 INFO  TC02_LoginTest:40 - **********Finished TC02_LoginTest**********
+2025-02-26 13:45:26 INFO  TC02_LoginTest:18 - ****Starting TC02_LoginTest********
+2025-02-26 13:45:26 INFO  TC02_LoginTest:24 - ****Provinding username and password********
+2025-02-26 13:45:27 INFO  TC02_LoginTest:33 - my account page validated successfully
+2025-02-26 13:45:27 INFO  TC02_LoginTest:34 - ****sucessfully logged in********
+2025-02-26 13:45:27 INFO  TC02_LoginTest:40 - **********Finished TC02_LoginTest**********
+2025-02-26 13:49:49 INFO  TC01_AcRegisteration:15 - ****Starting TC01_AcRegisteration***
+2025-02-26 13:49:50 INFO  TC01_AcRegisteration:21 - ****clicked on MyAccount Link***
+2025-02-26 13:49:50 INFO  TC01_AcRegisteration:23 - ****clicked on Register Link***
+2025-02-26 13:49:50 INFO  TC01_AcRegisteration:27 - ****providing customer details***
+2025-02-26 13:49:51 INFO  TC01_AcRegisteration:37 - ****Validating expected msg***
+2025-02-26 13:49:52 INFO  TC01_AcRegisteration:58 - **** Finished TC001_AccountRegistration ****
+2025-02-26 13:49:54 INFO  TC02_LoginTest:18 - ****Starting TC02_LoginTest********
+2025-02-26 13:49:54 INFO  TC02_LoginTest:24 - ****Provinding username and password********
+2025-02-26 13:49:55 INFO  TC02_LoginTest:33 - my account page validated successfully
+2025-02-26 13:49:55 INFO  TC02_LoginTest:34 - ****sucessfully logged in********
+2025-02-26 13:49:55 INFO  TC02_LoginTest:40 - **********Finished TC02_LoginTest**********
+2025-02-26 13:51:10 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-26 13:51:10 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-26 13:51:10 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-26 13:51:11 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-26 13:51:11 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-26 13:51:11 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-26 13:51:11 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-26 13:51:11 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-26 13:51:11 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-26 13:51:11 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-26 13:51:11 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-26 13:51:11 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-26 13:51:11 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-26 13:51:11 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-26 13:51:11 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-26 13:51:11 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-26 13:51:11 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-26 13:51:11 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-26 13:51:11 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-26 13:51:11 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-26 13:51:11 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-26 13:51:11 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-26 13:51:11 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-26 13:51:11 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-26 13:51:11 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-26 13:51:11 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-26 13:51:11 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-26 13:51:11 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-26 13:51:11 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-26 13:51:11 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-26 13:51:11 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-26 13:51:11 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-26 13:51:11 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-26 13:51:11 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-26 13:51:11 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-26 13:51:11 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-26 13:51:11 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-26 13:51:11 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-26 13:51:11 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-26 13:51:11 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-26 13:51:11 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-26 13:51:11 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-26 13:51:11 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-26 13:51:11 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-26 13:51:11 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-26 13:51:11 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-26 13:51:11 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-26 13:51:11 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-26 13:51:11 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-02-26 13:51:11 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-02-26 13:51:11 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-02-26 13:51:11 INFO  TC03_LoginDDT:16 - *****Starting TC002_LoginDDT ******** 
+2025-02-26 13:51:23 INFO  TC03_LoginDDT:16 - *****Starting TC002_LoginDDT ******** 
+2025-02-26 13:51:24 INFO  TC03_LoginDDT:57 - *****Finished TC003_LoginDDT ******** 
+2025-02-26 13:51:24 INFO  TC03_LoginDDT:16 - *****Starting TC002_LoginDDT ******** 
+2025-02-26 13:51:26 INFO  TC03_LoginDDT:16 - *****Starting TC002_LoginDDT ******** 
+2025-02-26 13:51:37 INFO  TC03_LoginDDT:57 - *****Finished TC003_LoginDDT ******** 
+2025-02-26 13:51:37 INFO  TC03_LoginDDT:16 - *****Starting TC002_LoginDDT ******** 
+2025-02-26 13:51:38 INFO  TC03_LoginDDT:57 - *****Finished TC003_LoginDDT ******** 
+2025-02-26 14:42:28 INFO  TC02_LoginTest:18 - ****Starting TC02_LoginTest********
+2025-02-26 14:42:29 INFO  TC02_LoginTest:24 - ****Provinding username and password********
+2025-02-26 14:42:30 INFO  TC02_LoginTest:33 - my account page validated successfully
+2025-02-26 14:42:30 INFO  TC02_LoginTest:34 - ****sucessfully logged in********
+2025-02-26 14:42:30 INFO  TC02_LoginTest:40 - **********Finished TC02_LoginTest**********
